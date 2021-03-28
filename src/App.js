@@ -162,16 +162,7 @@ class App extends Component {
           <a href="mailto:me@arpitdalmia.com"><img src={mail} alt="fas_fa_envelope" height="48" width="48"></img></a>
         </div>
 
-
-
-
-        
-
-
       </div>
-
-
-
       
     );
   }
