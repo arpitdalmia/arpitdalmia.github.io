@@ -36,7 +36,7 @@ class App extends Component {
           </div>
           <div className="resume">
             <br/><br/><br/><br/>
-		        <a href="">RESUME</a>
+		        <a href="https://drive.google.com/file/d/1kmUB9CoR6J2jO6eNvpjcwdlEr20CN2jN/view?usp=sharing">RESUME</a>
           </div>
         </div>
 
